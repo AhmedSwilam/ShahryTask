@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shahry Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_author_name">AuthorName</string>
+    <string name="txt_author_user_name">User Name</string>
+    <string name="txt_author_email">E-mail</string>
+    <string name="date">Date:</string>
+    <string name="title">Title:</string>
+    <string name="body">Body:</string>
+</resources>
